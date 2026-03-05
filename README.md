@@ -2,7 +2,9 @@
 
 This repository contains the official implementation of the paper:
 
-**"Attention-Driven Pseudo-Label Self-Training for Weakly Supervised Video Anomaly Detection"**
+**[Attention-Driven Pseudo-Label Self-Training for Weakly Supervised Video Anomaly Detection](https://www.sciencedirect.com/science/article/abs/pii/S0031320326003146)**
+
+✅ **Accepted by Pattern Recognition (PR), 2026**
 
 ---
 
@@ -99,4 +101,19 @@ Our implementation referenced the following codebases:
 - [VadCLIP](https://github.com/nwpu-zxr/VadCLIP)
 
 ---
+
+## 📖 Citation
+
+If you find this work helpful, please consider citing our paper.
+
+```bash
+@article{yang2026attention,
+  title={Attention-Driven Pseudo-Label Self-Training for Weakly Supervised Video Anomaly Detection},
+  author={Yang, Zhiwei and Liu, Jing and Pang, Guansong and Wu, Peng and Wu, Zhaoyang},
+  journal={Pattern Recognition},
+  pages={113349},
+  year={2026},
+  publisher={Elsevier}
+}
+```
 
