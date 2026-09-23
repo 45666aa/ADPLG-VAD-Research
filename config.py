@@ -42,5 +42,5 @@ class Config(object):
 if __name__ == "__main__":
     args=options.parse_args()
     conf=Config(args)
-    print(conf.lr)  
+    print(conf.lr_s) 
 
